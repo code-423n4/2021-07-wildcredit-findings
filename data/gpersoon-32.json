@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "0",
+  "title": "difference between _safeTransferFrom and _safeTransfer",
+  "issueId": 32,
+  "issueUrl": "https://github.com/code-423n4/2021-07-wildcredit-findings/issues/32"
+}
