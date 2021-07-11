@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "0",
+  "title": "_checkMinReserve not checked in all circumstances",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2021-07-wildcredit-findings/issues/27"
+}
