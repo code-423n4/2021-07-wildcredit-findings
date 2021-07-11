@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "G",
+  "title": "redundant call to _checkMinReserve in withdrawBorrowETH ",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2021-07-wildcredit-findings/issues/26"
+}
