@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "2",
+  "title": "WETH not verified to be one of the pair tokens",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2021-07-wildcredit-findings/issues/30"
+}
