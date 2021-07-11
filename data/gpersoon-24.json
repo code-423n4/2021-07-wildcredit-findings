@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "No check of MAX_LIQ_FEES in contructor of Controller",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2021-07-wildcredit-findings/issues/24"
+}
