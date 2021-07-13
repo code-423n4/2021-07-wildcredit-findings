@@ -1,9 +1,0 @@
-{
-  "contest": "Wild Credit contest",
-  "handle": "greiart",
-  "address": "0x1c95a25459edd226aCF8061D40C7FB03716371F7",
-  "risk": "1",
-  "title": "UniswapV3Oracle: Reduce minObservations to uint16",
-  "issueId": 21,
-  "issueUrl": "https://github.com/code-423n4/2021-07-wildcredit-findings/issues/21"
-}
