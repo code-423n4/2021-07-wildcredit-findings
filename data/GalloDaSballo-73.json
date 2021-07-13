@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "GalloDaSballo",
+  "address": "0xB943cdb5622E7Bb26D3E462dB68Ee71D8868C940",
+  "risk": "1",
+  "title": "Risk of Overflow in InterestRateModel:borrowRatePerBlock",
+  "issueId": 73,
+  "issueUrl": "https://github.com/code-423n4/2021-07-wildcredit-findings/issues/73"
+}
