@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "jonah1005",
+  "address": "0xd7f69D59B6E8E6f3031B12f692d468bC88Ebdd97",
+  "risk": "G",
+  "title": "unnecessary check of _checkMinReserve in withdrawBorrowETH",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2021-07-wildcredit-findings/issues/61"
+}
