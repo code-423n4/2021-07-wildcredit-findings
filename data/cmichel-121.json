@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "`LendingPair._safeTransfer` does not work with all ERC20 tokens",
+  "issueId": 121,
+  "issueUrl": "https://github.com/code-423n4/2021-07-wildcredit-findings/issues/121"
+}
