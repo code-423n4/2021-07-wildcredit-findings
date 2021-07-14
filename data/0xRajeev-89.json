@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "The receive() function allows locking of accidentally sent Ether",
+  "issueId": 89,
+  "issueUrl": "https://github.com/code-423n4/2021-07-wildcredit-findings/issues/89"
+}
