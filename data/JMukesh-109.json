@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "0",
+  "title": "when setting new value for feeRecepient/totalRewardPerBlock ensure that new value is different from old one",
+  "issueId": 109,
+  "issueUrl": "https://github.com/code-423n4/2021-07-wildcredit-findings/issues/109"
+}
