@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Lack of guarded launch approach may be risky",
+  "issueId": 81,
+  "issueUrl": "https://github.com/code-423n4/2021-07-wildcredit-findings/issues/81"
+}
