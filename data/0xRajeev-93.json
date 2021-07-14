@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Rewards can be migrated to an arbitrary address at anytime by owner",
+  "issueId": 93,
+  "issueUrl": "https://github.com/code-423n4/2021-07-wildcredit-findings/issues/93"
+}
