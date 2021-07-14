@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "3",
+  "title": "Total LP supply & total debt accrual is wrong",
+  "issueId": 115,
+  "issueUrl": "https://github.com/code-423n4/2021-07-wildcredit-findings/issues/115"
+}
