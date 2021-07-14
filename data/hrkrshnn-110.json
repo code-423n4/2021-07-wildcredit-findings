@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "hrkrshnn",
+  "address": "0x58993cFa67cD6151EC3D806AE93a7Ed365dB2f88",
+  "risk": "G",
+  "title": "Variables that can be converted into immutables",
+  "issueId": 110,
+  "issueUrl": "https://github.com/code-423n4/2021-07-wildcredit-findings/issues/110"
+}
