@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Setting reward for a non-existing pair/token will modify pool 0",
+  "issueId": 92,
+  "issueUrl": "https://github.com/code-423n4/2021-07-wildcredit-findings/issues/92"
+}
