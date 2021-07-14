@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Critical protocol parameter configuration/changes should have sanity/threshold checks",
+  "issueId": 85,
+  "issueUrl": "https://github.com/code-423n4/2021-07-wildcredit-findings/issues/85"
+}
