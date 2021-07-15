@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "shw",
+  "address": "0xB48B9694BeC446E3Bf54788f913174a6580a279F",
+  "risk": "2",
+  "title": "Deflationary and fee-on-transfer tokens are not correctly accounted",
+  "issueId": 141,
+  "issueUrl": "https://github.com/code-423n4/2021-07-wildcredit-findings/issues/141"
+}
