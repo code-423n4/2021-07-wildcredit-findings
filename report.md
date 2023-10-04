@@ -3,7 +3,7 @@ sponsor: "Wild Credit"
 slug: "2021-07-wildcredit"
 date: "2021-08-17"
 title: "Wild Credit"
-findings: "https://github.com/code-423n4/https://github.com/code-423n4/2021-07-wildcredit-findings/issues"
+findings: "https://github.com/code-423n4/2021-07-wildcredit-findings/issues"
 contest: 18
 ---
 
